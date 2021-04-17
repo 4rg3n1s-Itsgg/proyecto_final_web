@@ -1,0 +1,30 @@
+textarea.pedido{
+	overflow: scroll;
+	resize: none;
+	width: 300px;
+	height: 150px;
+	font-size: 14pt;
+	font-family: Arial;
+}
+
+table.pedido, th,td{
+	
+	border-collapse:collapse;
+	text-align: center;
+}
+#forma_pago li{
+	display: block;
+	list-style:none;
+	position:relative;
+ 	float:left;
+	margin:0;
+ 	padding:0;
+}
+
+.oculto{
+	display: none;
+}
+
+ul.pago{
+	list-style:none;
+}
